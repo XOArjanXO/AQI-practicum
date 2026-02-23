@@ -1,0 +1,14 @@
+Epoch 0001 | Train Loss: 1.166797 | Val Loss: 1.305411 | Val RMSE: 1.142546 | LR: 5.05e-04 | Time: 0.1s
+Epoch 0001 | Train Loss: 1.166797 | Val Loss: 1.305411 | Val RMSE: 1.142546 | LR: 5.05e-04 | Time: 0.1s
+Epoch 0002 | Train Loss: 1.146321 | Val Loss: 1.339671 | Val RMSE: 1.157442 | LR: 1.00e-05 | Time: 0.1s
+Epoch 0001 | Train Loss: 0.120286 | Val Loss: 0.079907 | Val RMSE: 0.282678 | LR: 9.99e-04 | Time: 0.9s
+Epoch 0002 | Train Loss: 0.099599 | Val Loss: 0.084389 | Val RMSE: 0.290498 | LR: 9.96e-04 | Time: 0.7s
+Epoch 0003 | Train Loss: 0.094210 | Val Loss: 0.081381 | Val RMSE: 0.285274 | LR: 9.91e-04 | Time: 0.6s
+Epoch 0004 | Train Loss: 0.092902 | Val Loss: 0.084702 | Val RMSE: 0.291036 | LR: 9.84e-04 | Time: 0.6s
+Epoch 0005 | Train Loss: 0.092333 | Val Loss: 0.081995 | Val RMSE: 0.286347 | LR: 9.76e-04 | Time: 0.6s
+Epoch 0006 | Train Loss: 0.088672 | Val Loss: 0.085273 | Val RMSE: 0.292015 | LR: 9.65e-04 | Time: 0.6s
+Epoch 0007 | Train Loss: 0.088790 | Val Loss: 0.082788 | Val RMSE: 0.287728 | LR: 9.53e-04 | Time: 0.7s
+Epoch 0008 | Train Loss: 0.088042 | Val Loss: 0.088941 | Val RMSE: 0.298229 | LR: 9.39e-04 | Time: 0.6s
+Epoch 0009 | Train Loss: 0.086795 | Val Loss: 0.083766 | Val RMSE: 0.289423 | LR: 9.23e-04 | Time: 0.6s
+Epoch 0010 | Train Loss: 0.087272 | Val Loss: 0.112679 | Val RMSE: 0.335677 | LR: 9.05e-04 | Time: 0.6s
+Epoch 0011 | Train Loss: 0.088928 | Val Loss: 0.081281 | Val RMSE: 0.285097 | LR: 8.86e-04 | Time: 0.6s
